@@ -1,0 +1,19 @@
+/*
+主样式文件，包含主题的信息，所有主题都需要这个文件
+Theme Name: xxx 主体名称
+Theme URI: xxx 主题介绍信息所在的网址， 用户可以在其中找到有关主题的更多信息
+Author: xxx
+Author URI: xx制作者的网址
+Description: 主题简介
+Version: 1.0 主题版本，格式为 X.X 或 X.X.X
+License: 主题授权许可
+License URI: 主题授权许可的网址
+Text Domain: twentyseventeen 用于翻译的 文本域 字符串
+Tags: 允许用户使用标签过滤器查找主题的单词或短语, e-commerce
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body {
+	background: #fff;
+}
